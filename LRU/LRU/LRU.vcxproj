@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{66B14A7F-713F-4DA2-869E-D980237F0D35}</ProjectGuid>
+    <ProjectGuid>{EE73AA0D-3F91-4B31-9AAC-3F025CA1D8BB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LRU</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>

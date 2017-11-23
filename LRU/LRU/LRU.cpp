@@ -1,5 +1,4 @@
 #include "stdafx.h"
-#include "stdafx.h"
 #include <stdio.h>
 
 int findLRU(int time[], int n) {
