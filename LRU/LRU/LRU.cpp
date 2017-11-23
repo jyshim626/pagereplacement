@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "stdafx.h"
-#include<stdio.h>
+#include <stdio.h>
 
 int findLRU(int time[], int n) {
 	int i, minimum = time[0], pos = 0;
