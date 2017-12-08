@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include <stdio.h>
 
+//가장 작은 시간 값을 가진 페이지를 대치시키기 위함
 int findLRU(int time[], int n)
 {
 	int i, minimum = time[0], pos = 0;
@@ -87,6 +88,7 @@ int main()
 	}
 
 	printf("\n\nTotal Page Faults = %d", faults);
+
 
 	return 0;
 }
